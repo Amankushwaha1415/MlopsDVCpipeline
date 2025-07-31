@@ -1,5 +1,10 @@
 dvcpipeline
-data\
-logs\
-models\
-reports\
+# Ignore DVC pipeline files
+# Ignore data directories
+data/   
+# Ignore logs directories
+logs/
+# Ignore models directories
+models/
+# Ignore reports directories
+reports/
