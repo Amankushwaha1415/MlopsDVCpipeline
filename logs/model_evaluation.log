@@ -1,4 +1,0 @@
-2025-07-31 10:50:33,539 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2025-07-31 10:50:33,561 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2025-07-31 10:50:33,587 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2025-07-31 10:50:33,589 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
