@@ -1,1 +1,5 @@
-dvcpipeline 
+dvcpipeline
+data\
+logs\
+models\
+reports\
